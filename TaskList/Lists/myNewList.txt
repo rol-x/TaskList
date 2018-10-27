@@ -1,0 +1,16 @@
+P
+total priority
+2018 9 15
+2018 10 10
+P
+this is a priority!
+2018 9 15
+9999 12 31
+
+this is some entry that has to be done soon
+2018 9 15
+2018 9 20
+
+some entry
+2018 9 15
+9999 12 31

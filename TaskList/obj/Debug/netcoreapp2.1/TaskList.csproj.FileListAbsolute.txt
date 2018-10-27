@@ -1,0 +1,11 @@
+C:\Users\charles0\Documents\CSharpProjects\TaskList\TaskList\bin\Debug\netcoreapp2.1\TaskList.deps.json
+C:\Users\charles0\Documents\CSharpProjects\TaskList\TaskList\bin\Debug\netcoreapp2.1\TaskList.runtimeconfig.json
+C:\Users\charles0\Documents\CSharpProjects\TaskList\TaskList\bin\Debug\netcoreapp2.1\TaskList.runtimeconfig.dev.json
+C:\Users\charles0\Documents\CSharpProjects\TaskList\TaskList\bin\Debug\netcoreapp2.1\TaskList.dll
+C:\Users\charles0\Documents\CSharpProjects\TaskList\TaskList\bin\Debug\netcoreapp2.1\TaskList.pdb
+C:\Users\charles0\Documents\CSharpProjects\TaskList\TaskList\obj\Debug\netcoreapp2.1\TaskList.csprojAssemblyReference.cache
+C:\Users\charles0\Documents\CSharpProjects\TaskList\TaskList\obj\Debug\netcoreapp2.1\TaskList.csproj.CoreCompileInputs.cache
+C:\Users\charles0\Documents\CSharpProjects\TaskList\TaskList\obj\Debug\netcoreapp2.1\TaskList.AssemblyInfoInputs.cache
+C:\Users\charles0\Documents\CSharpProjects\TaskList\TaskList\obj\Debug\netcoreapp2.1\TaskList.AssemblyInfo.cs
+C:\Users\charles0\Documents\CSharpProjects\TaskList\TaskList\obj\Debug\netcoreapp2.1\TaskList.dll
+C:\Users\charles0\Documents\CSharpProjects\TaskList\TaskList\obj\Debug\netcoreapp2.1\TaskList.pdb
